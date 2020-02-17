@@ -1,3 +1,1 @@
 Sitemap: http://www.qwantcours.space/sitemap.xml
-User-agent: *
-Disallow: /
